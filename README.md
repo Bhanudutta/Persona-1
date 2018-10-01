@@ -41,7 +41,7 @@ pip install --upgrade flask-sqlalchemy
 pip install --upgrade flask-wtf
 pip install --upgrade numpy
 ```
-
+Currently the project is setup for hosting at localhost but can be easily hosted at any hosting service
 Now run the flask app to host the website locally. Usually, hosting address is : 
 ```
 127.0.0.1:5000
